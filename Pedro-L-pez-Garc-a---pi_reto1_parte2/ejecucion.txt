@@ -1,0 +1,61 @@
+=== PRUEBA 1: CREAR NOTICIAS ===
+29/9/2026 - 9:0
+Nueva versión del sistema publicada.
+Leída 1 veces
+
+=== PRUEBA 2: INSERTAR ===
+Noticias insertadas:
+29/9/2026 - 9:0
+Nueva versión del sistema publicada.
+Leída 0 veces
+
+28/9/2026 - 12:0
+El equipo presenta el nuevo proyecto.
+Leída 0 veces
+
+29/9/2026 - 11:0
+Se anuncia una nueva funcionalidad.
+Leída 0 veces
+
+30/9/2026 - 8:0
+Comienza la fase final del proyecto.
+Leída 0 veces
+
+=== PRUEBA 3: PRIMERA NOTICIA ===
+Primera noticia del 29/9/2026:
+29/9/2026 - 9:0
+Nueva versión del sistema publicada.
+Leída 0 veces
+
+Búsqueda de una fecha inexistente: null
+=== PRUEBA 4: MÁS POPULARES ===
+29/9/2026 - 9:0
+Nueva versión del sistema publicada.
+Leída 2 veces
+
+28/9/2026 - 12:0
+El equipo presenta el nuevo proyecto.
+Leída 2 veces
+
+29/9/2026 - 11:0
+Se anuncia una nueva funcionalidad.
+Leída 2 veces
+
+=== PRUEBA 5: BORRAR ANTERIORES ===
+Noticias después de borrar las anteriores al 29/9/2026:
+29/9/2026 - 9:0
+Nueva versión del sistema publicada.
+Leída 2 veces
+
+29/9/2026 - 11:0
+Se anuncia una nueva funcionalidad.
+Leída 2 veces
+
+30/9/2026 - 8:0
+Comienza la fase final del proyecto.
+Leída 1 veces
+
+=== PRUEBA ADICIONAL: PERIÓDICO VACÍO ===
+No hay noticias.
+=== PRUEBA ADICIONAL: LÍMITE DE 1000 NOTICIAS ===
+=== TODAS LAS PRUEBAS MANUALES FINALIZADAS CORRECTAMENTE ===
